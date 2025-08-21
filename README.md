@@ -43,7 +43,9 @@ The project combines Machine Learning (for churn prediction) with Business Intel
 ## 5.Dashboards
 🔹 Churn Summary Dashboard
 
+![ Churn Summary Dashboard](Dashboard_Images/Churn_summary.png)
 🔹 Churn Prediction Dashboard
+![ Churn Prediction Dashboard](Dashboard_Images/Churn_Prediction.png)
 
  ---
 ## 6.Tools & Technologies
